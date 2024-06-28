@@ -1,3 +1,6 @@
+#Code to remove duplicate elements from the list
+#Author : Abhinav Raj
+
 list1 = [1,2,1,1,4,3,2,7,6,7]
 list2 =[]
 for i in list1:

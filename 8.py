@@ -1,3 +1,6 @@
+#Function to check if the inputted number is armstrong or not.
+#Author : Abhinav Raj
+
 def arm():
     num = int(input("Enter a Number : "))
     sum = 0
